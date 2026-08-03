@@ -6,6 +6,10 @@ training material — and always cites the source document and page number.
 It refuses to answer, rather than guess, when the answer isn't in your
 documents.
 
+# Live Demo : 
+                https://domain-rag-chatbot-hzgwvubfa4puhaobtqkfdx.streamlit.app/
+                
+
 ## Who this is for
 
 | Audience | Need | How this chatbot helps |
