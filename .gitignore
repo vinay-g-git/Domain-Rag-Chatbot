@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+vector_store/saved_index/
+documents/*.pdf
+!documents/sample.pdf
+.DS_Store
